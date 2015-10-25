@@ -31,6 +31,8 @@ import android.util.TypedValue;
 import android.view.View;
 import android.view.View.OnClickListener;
 
+import wang.yanan.test.mylauncher3.R;
+
 public class PendingAppWidgetHostView extends LauncherAppWidgetHostView implements OnClickListener {
 
     private static Theme sPreloaderTheme;

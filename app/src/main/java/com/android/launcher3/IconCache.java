@@ -57,6 +57,8 @@ import java.util.Locale;
 import java.util.Set;
 import java.util.Stack;
 
+import wang.yanan.test.mylauncher3.R;
+
 /**
  * Cache of application icons.  Icons can be made from any thread.
  */

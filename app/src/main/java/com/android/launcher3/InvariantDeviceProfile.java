@@ -30,6 +30,8 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 
+import wang.yanan.test.mylauncher3.R;
+
 public class InvariantDeviceProfile {
 
     // This is a static that we use for the default icon size on a 4/5-inch phone

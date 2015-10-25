@@ -27,6 +27,8 @@ import android.view.MotionEvent;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
+import wang.yanan.test.mylauncher3.R;
+
 public class Hotseat extends FrameLayout
         implements Stats.LaunchSourceProvider{
 

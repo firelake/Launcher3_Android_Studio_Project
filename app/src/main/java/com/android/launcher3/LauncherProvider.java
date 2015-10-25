@@ -64,6 +64,8 @@ import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
 
+import wang.yanan.test.mylauncher3.R;
+
 public class LauncherProvider extends ContentProvider {
     private static final String TAG = "Launcher.LauncherProvider";
     private static final boolean LOGD = false;

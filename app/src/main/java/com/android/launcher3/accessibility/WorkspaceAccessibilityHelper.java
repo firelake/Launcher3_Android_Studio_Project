@@ -24,7 +24,7 @@ import com.android.launcher3.CellLayout;
 import com.android.launcher3.FolderInfo;
 import com.android.launcher3.ItemInfo;
 import com.android.launcher3.accessibility.LauncherAccessibilityDelegate.DragType;
-import com.android.launcher3.R;
+import wang.yanan.test.mylauncher3.R;
 import com.android.launcher3.ShortcutInfo;
 
 /**

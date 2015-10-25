@@ -35,7 +35,7 @@ import com.android.launcher3.DeviceProfile;
 import com.android.launcher3.Launcher;
 import com.android.launcher3.LauncherAppState;
 import com.android.launcher3.LauncherAppWidgetProviderInfo;
-import com.android.launcher3.R;
+import wang.yanan.test.mylauncher3.R;
 import com.android.launcher3.Utilities;
 import com.android.launcher3.WidgetPreviewLoader;
 import com.android.launcher3.model.PackageItemInfo;

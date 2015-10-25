@@ -45,6 +45,8 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
+import wang.yanan.test.mylauncher3.R;
+
 public class LiveWallpaperListAdapter extends BaseAdapter implements ListAdapter {
     private static final String LOG_TAG = "LiveWallpaperListAdapter";
 

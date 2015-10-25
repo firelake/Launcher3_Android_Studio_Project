@@ -24,6 +24,8 @@ import android.graphics.Paint;
 import android.graphics.Rect;
 import android.graphics.drawable.Drawable;
 
+import wang.yanan.test.mylauncher3.R;
+
 /**
  * The fast scroller popup that shows the section name the list will jump to.
  */

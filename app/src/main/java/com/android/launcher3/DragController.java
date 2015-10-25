@@ -39,6 +39,8 @@ import com.android.launcher3.util.Thunk;
 import java.util.ArrayList;
 import java.util.HashSet;
 
+import wang.yanan.test.mylauncher3.R;
+
 /**
  * Class for initiating a drag within a view or across multiple views.
  */

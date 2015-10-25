@@ -16,7 +16,7 @@ import com.android.launcher3.InsettableFrameLayout;
 import com.android.launcher3.Launcher;
 import com.android.launcher3.LauncherAnimUtils;
 import com.android.launcher3.LauncherCallbacks;
-import com.android.launcher3.R;
+import wang.yanan.test.mylauncher3.R;
 import com.android.launcher3.allapps.AllAppsSearchBarController;
 import com.android.launcher3.util.ComponentKey;
 

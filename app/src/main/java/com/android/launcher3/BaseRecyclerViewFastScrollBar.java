@@ -30,6 +30,8 @@ import android.view.ViewConfiguration;
 
 import com.android.launcher3.util.Thunk;
 
+import wang.yanan.test.mylauncher3.R;
+
 /**
  * The track and scrollbar that shows when you scroll the list.
  */

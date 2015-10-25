@@ -47,6 +47,8 @@ import com.android.launcher3.util.Thunk;
 
 import java.util.ArrayList;
 
+import wang.yanan.test.mylauncher3.R;
+
 /**
  * An icon that can appear on in the workspace representing an {@link UserFolder}.
  */

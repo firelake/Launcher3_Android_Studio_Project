@@ -29,6 +29,8 @@ import android.graphics.Rect;
 import android.graphics.drawable.Drawable;
 import android.util.SparseArray;
 
+import wang.yanan.test.mylauncher3.R;
+
 /**
  * Utility class to generate shadow and outline effect, which are used for click feedback
  * and drag-n-drop respectively.

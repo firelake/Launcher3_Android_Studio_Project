@@ -39,7 +39,7 @@ import android.widget.Toast;
 
 import com.android.launcher3.IconCache;
 import com.android.launcher3.LauncherAppWidgetProviderInfo;
-import com.android.launcher3.R;
+import wang.yanan.test.mylauncher3.R;
 
 import java.util.ArrayList;
 import java.util.List;

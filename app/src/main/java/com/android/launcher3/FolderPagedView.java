@@ -37,6 +37,8 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
 
+import wang.yanan.test.mylauncher3.R;
+
 public class FolderPagedView extends PagedView {
 
     private static final String TAG = "FolderPagedView";

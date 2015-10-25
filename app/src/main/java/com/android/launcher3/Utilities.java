@@ -64,6 +64,8 @@ import java.util.Set;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import wang.yanan.test.mylauncher3.R;
+
 /**
  * Various utilities shared amongst the Launcher's classes.
  */

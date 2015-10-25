@@ -31,7 +31,7 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import com.android.launcher3.AppInfo;
 import com.android.launcher3.BubbleTextView;
-import com.android.launcher3.R;
+import wang.yanan.test.mylauncher3.R;
 import com.android.launcher3.Utilities;
 import com.android.launcher3.util.Thunk;
 

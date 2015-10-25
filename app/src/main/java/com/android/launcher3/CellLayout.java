@@ -63,6 +63,8 @@ import java.util.Comparator;
 import java.util.HashMap;
 import java.util.Stack;
 
+import wang.yanan.test.mylauncher3.R;
+
 public class CellLayout extends ViewGroup implements BubbleTextShadowHandler {
     public static final int WORKSPACE_ACCESSIBILITY_DRAG = 2;
     public static final int FOLDER_ACCESSIBILITY_DRAG = 1;

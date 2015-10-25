@@ -12,6 +12,8 @@ import android.graphics.Rect;
 import android.graphics.RectF;
 import android.graphics.drawable.Drawable;
 
+import wang.yanan.test.mylauncher3.R;
+
 class PreloadIconDrawable extends Drawable {
 
     private static final float ANIMATION_PROGRESS_STOPPED = -1.0f;

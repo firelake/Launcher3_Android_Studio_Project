@@ -41,6 +41,8 @@ import android.widget.TextView;
 
 import com.android.launcher3.util.Thunk;
 
+import wang.yanan.test.mylauncher3.R;
+
 /**
  * Implements a DropTarget.
  */

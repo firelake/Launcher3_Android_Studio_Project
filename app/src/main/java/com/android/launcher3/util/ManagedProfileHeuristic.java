@@ -31,7 +31,7 @@ import com.android.launcher3.LauncherAppState;
 import com.android.launcher3.LauncherFiles;
 import com.android.launcher3.LauncherModel;
 import com.android.launcher3.MainThreadExecutor;
-import com.android.launcher3.R;
+import wang.yanan.test.mylauncher3.R;
 import com.android.launcher3.ShortcutInfo;
 import com.android.launcher3.Utilities;
 import com.android.launcher3.compat.LauncherActivityInfoCompat;

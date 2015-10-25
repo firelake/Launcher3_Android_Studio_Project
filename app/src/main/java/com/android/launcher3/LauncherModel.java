@@ -77,6 +77,8 @@ import java.util.List;
 import java.util.Map.Entry;
 import java.util.Set;
 
+import wang.yanan.test.mylauncher3.R;
+
 /**
  * Maintains in-memory state of the Launcher. It is expected that there should be only one
  * LauncherModel object held in a static. Also provide APIs for updating the database state

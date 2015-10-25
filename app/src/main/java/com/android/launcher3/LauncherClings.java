@@ -38,6 +38,8 @@ import android.view.ViewTreeObserver.OnGlobalLayoutListener;
 import android.view.accessibility.AccessibilityManager;
 import com.android.launcher3.util.Thunk;
 
+import wang.yanan.test.mylauncher3.R;
+
 class LauncherClings implements OnClickListener {
     private static final String MIGRATION_CLING_DISMISSED_KEY = "cling_gel.migration.dismissed";
     private static final String WORKSPACE_CLING_DISMISSED_KEY = "cling_gel.workspace.dismissed";

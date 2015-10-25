@@ -127,6 +127,8 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.concurrent.atomic.AtomicInteger;
 
+import wang.yanan.test.mylauncher3.R;
+
 /**
  * Default launcher application.
  */

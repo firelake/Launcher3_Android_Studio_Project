@@ -2,6 +2,8 @@ package com.android.launcher3;
 
 import android.appwidget.AppWidgetProviderInfo;
 
+import wang.yanan.test.mylauncher3.R;
+
 public class DummyWidget implements CustomAppWidget {
     @Override
     public String getLabel() {

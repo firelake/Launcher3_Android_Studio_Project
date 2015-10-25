@@ -26,6 +26,8 @@ import android.view.View;
 
 import com.android.launcher3.util.Thunk;
 
+import wang.yanan.test.mylauncher3.R;
+
 public class FocusIndicatorView extends View implements View.OnFocusChangeListener {
 
     // It can be any number >0. The view is resized using scaleX and scaleY.

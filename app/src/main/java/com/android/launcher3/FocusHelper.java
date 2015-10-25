@@ -25,6 +25,8 @@ import android.view.ViewGroup;
 import com.android.launcher3.util.FocusLogic;
 import com.android.launcher3.util.Thunk;
 
+import wang.yanan.test.mylauncher3.R;
+
 /**
  * A keyboard listener we set on all the workspace icons.
  */

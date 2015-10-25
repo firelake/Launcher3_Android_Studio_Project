@@ -55,6 +55,8 @@ import java.util.Collections;
 import java.util.Set;
 import java.util.WeakHashMap;
 
+import wang.yanan.test.mylauncher3.R;
+
 public class WallpaperCropActivity extends BaseActivity implements Handler.Callback {
     private static final String LOGTAG = "Launcher3.CropActivity";
 

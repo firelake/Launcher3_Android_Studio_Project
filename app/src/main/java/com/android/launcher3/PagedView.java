@@ -53,6 +53,8 @@ import com.android.launcher3.util.Thunk;
 
 import java.util.ArrayList;
 
+import wang.yanan.test.mylauncher3.R;
+
 /**
  * An abstraction of the original Workspace which supports browsing through a
  * sequential list of "pages"

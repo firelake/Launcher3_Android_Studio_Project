@@ -25,6 +25,8 @@ import android.widget.LinearLayout;
 
 import java.util.ArrayList;
 
+import wang.yanan.test.mylauncher3.R;
+
 public class PageIndicator extends LinearLayout {
     @SuppressWarnings("unused")
     private static final String TAG = "PageIndicator";

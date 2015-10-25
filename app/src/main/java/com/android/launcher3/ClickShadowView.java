@@ -24,6 +24,8 @@ import android.graphics.Paint;
 import android.view.View;
 import android.view.ViewGroup;
 
+import wang.yanan.test.mylauncher3.R;
+
 public class ClickShadowView extends View {
 
     private static final int SHADOW_SIZE_FACTOR = 3;

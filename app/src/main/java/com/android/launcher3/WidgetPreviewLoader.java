@@ -44,6 +44,8 @@ import java.util.WeakHashMap;
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;
 
+import wang.yanan.test.mylauncher3.R;
+
 public class WidgetPreviewLoader {
 
     private static final String TAG = "WidgetPreviewLoader";
