@@ -21,10 +21,11 @@ import android.graphics.Bitmap;
 import android.graphics.Rect;
 import android.graphics.RectF;
 import android.support.v4.util.LongSparseArray;
+import android.support.v4.util.Pools;
 import android.util.DisplayMetrics;
 import android.util.Log;
-import android.util.Pools.Pool;
-import android.util.Pools.SynchronizedPool;
+import android.support.v4.util.Pools.Pool;
+import android.support.v4.util.Pools.SynchronizedPool;
 import android.view.View;
 import android.view.WindowManager;
 
