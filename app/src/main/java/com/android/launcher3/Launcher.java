@@ -4329,6 +4329,7 @@ public class Launcher extends Activity
     public void lockScreenOrientation() {
         if (mRotationEnabled) {
             if (Build.VERSION.SDK_INT < Build.VERSION_CODES.JELLY_BEAN_MR2) {
+                //noinspection ResourceType
                 setRequestedOrientation(mapConfigurationOriActivityInfoOri(getResources()
                         .getConfiguration().orientation));
             } else {
